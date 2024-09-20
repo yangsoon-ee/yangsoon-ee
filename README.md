@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yangsoon-ee
-- 👀 I’m interested in dotnet, dotnet core, react, pgsql, golang, clean-architecture, ddd, mssql and ...
 
 
 <!---
